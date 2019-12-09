@@ -1,6 +1,10 @@
 {
     "name": "bilty/bilty-services",
-    "description": "A Laravel Nova tool.",
+    "description": "A Laravel Nova tool used to save shorten url links in your bitly accout through nova-admin panel.",
+    "authors": [{
+            "name": "Khaled Gamal",
+            "email": "khaledgamalsabbah@gmail.com"
+        }],
     "keywords": [
         "laravel",
         "nova"
